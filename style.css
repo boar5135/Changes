@@ -1,1 +1,37 @@
+h1 {
+    text-align:center;
+    color: #0000ff;
+    font-size: 50px;
+    background-color:#47d147;
+    
+}
 
+html {
+    background-color:#ccccff;
+}
+h3 {
+    color: #0000ff;
+    font-size: 30px;
+    text-align:center;
+}
+th {
+    color:#0000ff;
+    font-size: 30px;
+}
+p{
+    font-size:20px;
+    width: 700px;
+    margin-left:625px;
+    border: 5px solid #47d147;
+}
+table, th, td {
+    border: 5px solid #47d147;
+    
+}
+td {
+    font-size: 20px;
+}
+img {
+    width:700px;
+    margin-left:625px;
+}
